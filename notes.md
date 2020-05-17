@@ -34,4 +34,14 @@ WGET
 
 APIs
 
+* Wrote out all the code, got the data.json file to be created with no issues.
 
+OCR
+
+* RStudio installation would not work via Anaconda. Had to download directly from their website.
+
+* Followed the steps for the RStudio coding. A bit daunting to read and work through, but it all worked first time.
+
+* Navigating and keeping track of tabs and files in RStudio was my biggest issue this week.
+
+  * Still quite new to coding, so it felt like everything was all over the place. Without screenshots in syllabus I would have been lost.
